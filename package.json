@@ -1,0 +1,25 @@
+{
+  "name": "learnmocha",
+  "version": "1.0.0",
+  "description": "learn testing js files using mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhtvarma/mochabasics.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Hari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhtvarma/mochabasics/issues"
+  },
+  "homepage": "https://github.com/jhtvarma/mochabasics#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
